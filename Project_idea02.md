@@ -24,7 +24,7 @@
 6. Text in handwriting can have variable rotation to the right which is in contrast to printed text where all the text sits up straight
 7. Collecting a good labelled dataset to learn is not cheap compared to synthetic data
 
-### What we do 
+### What we do ...
 
 1. Take input image. 
 2. Process through OCR and HTR algorithms to recognize the handwriting. 
@@ -49,15 +49,7 @@
 ### Neural networks 
 
 
-<img src = "[https://nanonets.com/blog/content/images/2020/08/SAR.PNG](https://www.investopedia.com/thmb/dmfmF8iByVZy1daIOwzHggagidk=/660x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dotdash_Final_Neural_Network_Apr_2020-01-5f4088dfda4c49d99a4d927c9a3a5ba0.jpg)" >
-
-
-
-
-
-
-
-
+<img src = "https://i.stack.imgur.com/UrGrT.png" width = "721" height = "589">
 
 - Neural networks are a series of algorithms that mimic the operations of an animal brain to recognize relationships between     vast amounts of data.
 
