@@ -15,9 +15,9 @@
 
 ### How To Learn :
 
-- Learning Basics [of Game Development]() :
+- Learning Basics [of Game Development](https://youtube.com/playlist?list=PLZ1b66Z1KFKi_AxdUDtVX_fHT6IqzhV55) :
 
-- [ Gameplan ]():
+- [ Gameplan ](https://developer.android.com/games/guides):
 
 - The plan is just to make a simplified version of the actual GTA game considering the map of our very own *VJTI*.
   The idea is to make our own character walk , navigate around and play some simple games like Basketball in virtual Quad,
