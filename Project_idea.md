@@ -1,7 +1,7 @@
 # The BIG BANG
 
 ## Project idea 01:
-  > GTA VJTI
+  > ## GTA VJTI
 
 ### What To Learn ?
 
