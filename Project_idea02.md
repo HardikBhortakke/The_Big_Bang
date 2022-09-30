@@ -49,10 +49,7 @@
 ### Neural networks 
 
 
-<img src = "https://nanonets.com/blog/content/images/2020/08/SAR.PNG" >
-
-
-
+<img src = "[https://nanonets.com/blog/content/images/2020/08/SAR.PNG](https://www.investopedia.com/thmb/dmfmF8iByVZy1daIOwzHggagidk=/660x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dotdash_Final_Neural_Network_Apr_2020-01-5f4088dfda4c49d99a4d927c9a3a5ba0.jpg)" >
 
 
 
