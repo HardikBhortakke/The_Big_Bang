@@ -1,6 +1,6 @@
 # The Big Bang 
 
-## Project idea02:
+## Project idea03:
 
 > ## Renovating Virtuality 
 
